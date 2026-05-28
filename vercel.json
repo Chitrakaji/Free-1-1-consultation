@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm --prefix \"./Service Landing page\" install",
+  "buildCommand": "npm --prefix \"./Service Landing page\" run build",
+  "devCommand": "npm --prefix \"./Service Landing page\" run dev"
+}
